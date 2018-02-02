@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "240419872522",
+    "firebase_url": "https://sayurku-88fe5.firebaseio.com",
+    "project_id": "sayurku-88fe5",
+    "storage_bucket": "sayurku-88fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240419872522:android:b869646f2b274f93",
+        "android_client_info": {
+          "package_name": "com.ecommerce.sayurku.creative.sayurku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240419872522-pctcn1r96rh5jdade97u4v20hjg7bke3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecommerce.sayurku.creative.sayurku",
+            "certificate_hash": "a774de7e19b6156c9c4a8878e26431d27a257668"
+          }
+        },
+        {
+          "client_id": "240419872522-r930etput4gfq9p5t1hm7dc2fknldfkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVxeURoH4efRBxKW9PB_iNUmILcheVEy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240419872522-r930etput4gfq9p5t1hm7dc2fknldfkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
